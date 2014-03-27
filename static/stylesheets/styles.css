@@ -16,3 +16,6 @@ footer ul {
 .body-wrapper {
   min-height: 500px;
 }
+h1, p {
+  color: #ccc;
+}
