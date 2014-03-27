@@ -13,10 +13,10 @@ footer {
 
 nav {
   height: 100px;
-  background-color: rgba(100,100,100,0.6);
+  /*background-color: rgba(100,100,100,0.6);*/
   margin-bottom: 15px;
 }
-img.brand { width: 90px; }
+a.brand { margin-left: -100px; }
 
 footer ul.inline-list, header ul {
   line-height: 100px; 

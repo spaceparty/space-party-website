@@ -1,11 +1,19 @@
 footer:
  - text: home
+   icon: home
    href: ./
  - text: coactivate
+   icon: widget
    href: http://www.coactivate.org/projects/spaceparty
  - text: twitter
+   icon: social-twitter
    href: https://twitter.com/SpacePartyUSA
  - text: facebook
+   icon: social-facebook
    href: https://facebook.com/SpacePartyUSA
  - text: privacy
+   icon: lock
    href: ./privacy.html
+ - text: github
+   icon: social-github
+   href: https://github.com/spaceparty/space-party-website/
