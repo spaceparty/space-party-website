@@ -1,0 +1,11 @@
+footer:
+ - text: home
+   href: ./
+ - text: coactivate
+   href: http://www.coactivate.org/projects/spaceparty
+ - text: twitter
+   href: https://twitter.com/SpacePartyUSA
+ - text: facebook
+   href: https://facebook.com/SpacePartyUSA
+ - text: privacy
+   href: ./privacy.html

@@ -1,7 +1,18 @@
-html, body { 
+body { 
   background: url(../images/earthscape.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+footer {
+  min-height: 100px;
+  background-color: rgba(100,100,100,0.6);
+}
+footer ul {
+  line-height: 100px;  
+}
+.body-wrapper {
+  min-height: 500px;
 }
