@@ -7,15 +7,26 @@ body {
 }
 
 footer {
-  min-height: 100px;
+  height: 100px;
   background-color: rgba(100,100,100,0.6);
 }
-footer ul {
-  line-height: 100px;  
+
+nav {
+  height: 100px;
+  background-color: rgba(100,100,100,0.6);
+  margin-bottom: 15px;
 }
+img.brand { width: 90px; }
+
+footer ul.inline-list, header ul {
+  line-height: 100px; 
+  margin-bottom: 0; 
+}
+
 .body-wrapper {
   min-height: 500px;
 }
-h1, p {
+
+h1, h2, p {
   color: #ccc;
 }
