@@ -11,6 +11,12 @@ footer:
  - text: facebook
    icon: social-facebook
    href: https://facebook.com/SpacePartyUSA
+ - text: blog
+   icon: pencil
+   href: http://www.coactivate.org/projects/spaceparty/blog/
+ - text: wiki
+   icon: database
+   href: http://www.coactivate.org/projects/spaceparty/project-home
  - text: privacy
    icon: lock
    href: ./privacy.html
