@@ -1,5 +1,13 @@
-body { 
-  background: url(../images/earthscape.jpg) no-repeat center center fixed; 
+---
+---
+@import 'normalize';
+@import 'foundation';
+@import 'colors';
+
+$brand-color: #5f8cc1;
+
+body {
+  background: url(../images/earthscape.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -20,14 +28,15 @@ nav img.brand {
   width: 114px;
 }
 footer ul.inline-list, header ul {
-  line-height: 40px; 
+  line-height: 40px;
   margin-top: 30px;
-  margin-bottom: 30px; 
-/*  margin-left: auto; 
+  margin-bottom: 30px;
+/*  margin-left: auto;
   margin-right: auto;*/
   width: -webkit-fit-content;
     width: -moz-fit-content;
       width: fit-content;
+  a { color: $brand-color; }
 }
 
 .body-wrapper {

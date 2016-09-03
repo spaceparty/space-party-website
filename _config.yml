@@ -13,6 +13,12 @@ meta:
     dignity, peace, greatness, cosmos, higher pursuits"
   fb_app_id: 488284401293167
 
+sass:
+  sass_dir: _scss
+
+exclude:
+  - bower_components
+
 footer:
  - text: home
    icon: home
