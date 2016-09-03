@@ -1,7 +1,21 @@
+meta:
+  preview_image: space-500.png
+  domainroot: http://thespaceparty.org
+  title: The Space Party
+  description: "A US political party dedicated to the peaceful exploration of space
+    in the name of all humankind, which believes in setting huge goals for all
+    humanity to work for, and truly making everyone free to live their lives as they will."
+  keywords: "political, party, united states, usa, socialist-libertarian,
+    science, health, environment, climate change, racial justice,
+    anti-colonialist, feminist, anti-racist, anti-capitalist, anti-war,
+    universal health care, marriage equality, non-conforming, platypus,
+    space exploration, global family, equality, scientific advancement,
+    dignity, peace, greatness, cosmos, higher pursuits"
+
 footer:
  - text: home
    icon: home
-   href: ./
+   href: /
  - text: coactivate
    icon: widget
    href: http://www.coactivate.org/projects/spaceparty
@@ -19,7 +33,7 @@ footer:
    href: http://www.coactivate.org/projects/spaceparty/project-home
  - text: privacy
    icon: lock
-   href: ./privacy.html
+   href: /privacy.html
  - text: github
    icon: social-github
    href: https://github.com/spaceparty/space-party-website/
